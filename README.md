@@ -5,15 +5,14 @@ This document outlines the key metrics for evaluating a successful personal stat
 ---
 
 ## Personal Statement Metrics
-
-| Metric                               | Description                                                                                                                                           | Percent Relevancy |
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| **Academic and Research Experience** | Details on past research projects, publications, theses, and methodologies specific to biochemistry, demonstrating technical skills and expertise.     | 30%              |
-| **Non-Course Educational Experiences** | Highlights educational experiences beyond coursework, such as workshops, conferences, or seminars that contribute to biochemistry knowledge.          | 15%              |
-| **Teaching and Relevant Employment** | Describes teaching assistantships, tutoring, or biochemistry-related employment, emphasizing transferable skills (e.g., communication, lab management).| 15%              |
-| **Plans for Graduate Study**         | Articulates specific research interests within biochemistry and aligns them with CU Boulder’s labs, faculty, or research areas.                       | 20%              |
-| **Professional Career Goals**        | Defines long-term career objectives, showing how a PhD from CU Boulder will facilitate reaching those goals.                                          | 10%              |
-| **Scholarly Activities**             | Mentions professional memberships, academic committee involvement, or journal clubs that enrich academic development and engagement.                  | 10%              |
+| **Metric**                               | **Description**                                                                                                                                           | **Percent Relevancy** |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| **Academic and Research Experience**     | Highlights your relevant biochemistry experience, including technical skills and notable research projects, demonstrating research potential.             | 25%                  |
+| **Motivation for Pursuing a Ph.D.**      | Explains the factors driving your interest in a Biochemistry Ph.D., such as personal, academic, or professional motivations.                              | 15%                  |
+| **Prior Research and Relevant Experience** | Describes your research or related work that informs your decision to pursue a Ph.D., highlighting any foundational skills and insights gained.           | 15%                  |
+| **Research Interests and Goals**         | Articulates specific topics or fields within biochemistry that interest you, including any long-term research or professional objectives.                 | 15%                  |
+| **Program Alignment**                    | Demonstrates how your research goals align with CU Boulder’s program, particularly through the work of specific faculty and research groups.              | 20%                  |
+| **Community and Collaboration**          | Reflects your commitment to a collaborative research culture, emphasizing mentorship and engagement with peers and the broader academic community.        | 10%                  |
 
 ---
 
