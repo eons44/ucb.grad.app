@@ -112,6 +112,26 @@ This document outlines the key metrics for evaluating a successful personal stat
 ### Notes
 - **Percent Relevancy**: The relevancy percentages are estimated based on CU Boulder's specific prompts and best practices for PhD applications in STEM fields.
 
+## IQ Biology Statement of Interest Metrics
+
+| **Key Component**       | **Details**                                                                                                   |
+|--------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Professional Goals**   | - Articulate your long-term professional aspirations.                                                         |
+|                          | - Explain how the IQ Biology program aligns with and supports these goals.                                    |
+| **Research Interests**   | - Discuss specific areas or questions you wish to explore within quantitative biology.                         |
+|                          | - Highlight how an interdisciplinary approach will advance your research and understanding of these topics.    |
+| **Formative Experiences** | - Reflect on personal, academic, or professional experiences that motivated you to pursue interdisciplinary research in biology. |
+|                          | - Emphasize strengths and skills that prepare you for success in the program.                                 |
+| **Interdisciplinary Impact** | - Describe how an interdisciplinary approach to science will influence your development as a researcher and leader.         |
+|                          | - Highlight how you plan to contribute to and impact the IQ Biology community.                               |
+| **Alignment with IQ Biology Goals** | - Demonstrate how your values, interests, and experiences align with the program’s mission to push disciplinary boundaries and train scientific leaders. |
+|                          | - Mention faculty members or specific resources in the program that resonate with your aspirations.            |
+| **Scientific Fields of Interest** | - Provide a brief overview of your scientific fields of interest and how IQ Biology’s interdisciplinary training will benefit you in these areas. |
+| **Formatting and Submission Guidelines** | - Keep the statement concise and focused, adhering to the one-page limit.                                         |
+|                          | - Avoid repeating content from your Personal Statement.                                                      |
+|                          | - Proofread for grammar, coherence, and clarity to present a polished and compelling narrative.                |
+
+
 ## Desired Faculty
 
 1. [Halil Aydin](https://www.colorado.edu/biochemistry/halil-aydin)
