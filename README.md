@@ -132,6 +132,12 @@ This document outlines the key metrics for evaluating a successful personal stat
 |                          | - Proofread for grammar, coherence, and clarity to present a polished and compelling narrative.                |
 
 
+### Prompt
+
+Please submit a one-page Statement of Interest in IQ Biology that is not a repeat of the Personal Statement section of your application. Consider discussing topics like your professional goals, your research interests, strengths and formative experiences that prepared or motivated you to pursue IQ Biology, how an interdisciplinary approach to science will impact you, how you envision impacting IQ Biology, or your scientific fields of interest. IQ Biology strives to train skilled and principled scientific leaders and community members who push disciplinary boundaries. Your essay should reflect how you might achieve this.
+
+---
+
 ## Desired Faculty
 
 1. [Halil Aydin](https://www.colorado.edu/biochemistry/halil-aydin)
